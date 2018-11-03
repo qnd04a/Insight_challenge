@@ -28,7 +28,7 @@ states_count = {}
 os.chdir(top_dir + '/input')
 print('Found file ' + file_to_process[0] )
     
-with open(file_to_process[0], 'r', encode="utf8") as csv_file:
+with open(file_to_process[0], 'r', "utf8") as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter =";")
     
     ## append jobs and states with 'certified' status     
