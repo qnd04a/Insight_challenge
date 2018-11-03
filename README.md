@@ -6,7 +6,7 @@ I would like to say thank you to the team. Regardless of the result, I had fun w
 
 Best,
 
-Quyn
+Quyen
 
 
 This code analyze user input .csv file containing immigration data, calculate two metrics: Top 10 Occupations and Top 10 States for certified visa application, and generate the corresponding .txt result files.
