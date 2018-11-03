@@ -2,9 +2,9 @@
 #   Quyen Do
 #   10/26/2018
 
-#import time
+
 import csv
-#from collections import Counter
+
 import os
 
 
