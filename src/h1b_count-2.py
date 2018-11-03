@@ -13,7 +13,7 @@ top_dir = os.path.dirname(os.getcwd())
 file_to_process = []
 
 ## Find csv files in input dir
-for file in os.listdir(top_dir + '/input'):
+for file in os.listdir(current_dir + '/input'):
     if file.endswith('.csv'):
         file_to_process.append(file)
        
