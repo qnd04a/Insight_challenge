@@ -1,7 +1,9 @@
 # Insight_challenge
 
 Dear Insight data engineering team
-Thank you for your kind email and your coding challenge deadline extension. Although, I attempted to make the initial deadline, I gave up after realizing that I needed more time to solve the challenge with my current coding skills and my current jobs did not allow that. Getting your kind email made my day and I decided to give it another try. I am going ahead and submit my effort here 2 days before the deadline as I am travelling outside the country tonight.
+
+Thank you for your kind email and your coding challenge deadline extension. Although I attempted to make the initial deadline, I gave up after realizing that I needed more time to solve the challenge with my current coding skills and my current jobs did not allow that. Getting your kind email made my day and I decided to give it another try. I am going ahead and submit my effort here. I could not do further testing as I am travelling outside the country tonight.
+
 I would like to say thank you to the team. Regardless of the result, I had fun working on the challenge and certainly will be trying to improve my python programming language in the future.
 
 Best,
